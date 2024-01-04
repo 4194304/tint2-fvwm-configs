@@ -1,6 +1,6 @@
 A great looking config for FVWM and Tint2 that is very similar to KDE in terms of its layout.
 
-<img src="https://i.imgur.com/X3qqylV.png" width="500px" height="350px"></img>
+<img src="https://i.imgur.com/X3qqylV.png" width="500px" height="300px"></img>
 
 The screenshot shows everything laid out in its true form (it isn't tiling it's stacking!)
 
